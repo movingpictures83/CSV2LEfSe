@@ -1,0 +1,2 @@
+Prefix plugins/CSV2LEfSe/example/
+Plugin CSV2LEfSe inputfile parameters.txt outputfile samples.lefse.csv
